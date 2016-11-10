@@ -15,10 +15,10 @@ c = conn.cursor()
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="oSYJ3bZEgpqqusNDYvaZUYGWh"
-csecret="PT3iZ6dgBkgxwWb4EQUps6v3TAL9qao4FcLowVR12qUsxwSD2m"
-atoken="97784671-DtEJsuP2bhzA5RevVhGvO5BS6l8gsCmx12IPfOIY5"
-asecret="N6wQEDTfqE700hOt5vYNHoyo36R5FOSqgE5wTjyROEU6i"
+ckey=""
+csecret=""
+atoken="-"
+asecret=""
 
 class listener(StreamListener):
 
