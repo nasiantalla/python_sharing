@@ -10,7 +10,7 @@ import tweepy
 
 #        replace mysql.server with "localhost" if you are running via your own server!
 #                        server       MySQL username	MySQL pass  Database name.
-conn = psycopg2.connect("dbname=marketing user=ba password=n8Ght_54aU34Dc_V19 host=bi-live-db1 port=5432")
+conn = psycopg2.connect("dbname= user= password= host= port=")
 c = conn.cursor()
 
 
